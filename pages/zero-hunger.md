@@ -6,13 +6,13 @@ title: >-
 goalNum: 2
 name: Zero Hunger
 description: >-
-  The [UN explains](https://www.un.org/sustainabledevelopment/hunger/): _"It
-  is time to rethink how we grow, share and consume our food._
+  The [UN explains](https://www.un.org/sustainabledevelopment/hunger/): _"It is
+  time to rethink how we grow, share and consume our food._
 
 
-  _If done right, agriculture, forestry and fisheries can provide nutritious food
-  for all and generate decent incomes, while supporting people-centred rural
-  development and protecting the environment._
+  _If done right, agriculture, forestry and fisheries can provide nutritious
+  food for all and generate decent incomes, while supporting people-centred
+  rural development and protecting the environment._
 
 
   _Right now, our soils, freshwater, oceans, forests and biodiversity are being
@@ -112,10 +112,11 @@ and lactating women and older persons.</q></p>
             <p><strong>Goal:</strong> By 2030 <q>end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age</q>. <p>The intermediate target is a reduction in the prevalence of stunting <a href="http://apps.who.int/iris/bitstream/handle/10665/149018/WHO_NMH_NHD_14.2_eng.pdf?sequence=1"> by 40% by 2025</a> (from 2012 levels).</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entry on <a href="https://ourworldindata.org/hunger-and-undernourishment">Hunger and Undernourishment</a>.</p>
             <p><strong>Additional charts:</strong>
+<br><a href="https://ourworldindata.org/grapher/share-of-children-younger-than-5-who-suffer-from-stunting">Prevalence of childhood stunting (WHO estimates)</a>
 <br><a href="https://ourworldindata.org/grapher/prevalence-of-stunting-male-vs-female">Prevalence of childhood stunting by sex</a>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/share-of-children-younger-than-5-who-suffer-from-stunting" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/child-stunting-ihme" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
@@ -135,14 +136,16 @@ A child is defined as "overweight" if their weight-for-height is more than 2 sta
             <p><strong>Goal:</strong> By 2030 <q>end all forms of malnutrition, including achieving, by 2025, the internationally agreed targets on stunting and wasting in children under 5 years of age, and address the nutritional needs of adolescent girls, pregnant and lactating women and older persons</q>.<p>This targets an elimination of wasting, and the prevalence of children being overweight by 2030.</p>
             <p><strong>More research:</strong> Further data and research can be found at the <i>Our World in Data</i> entries on <a href="https://ourworldindata.org/hunger-and-undernourishment">Hunger and Undernourishment</a>, <a href="https://ourworldindata.org/obesity">Obesity</a> and <a href="https://ourworldindata.org/micronutrient-deficiency">Micronutrient Deficiency</a>.</p>
             <p><strong>Additional charts:</strong>
+<br><a href="https://ourworldindata.org/grapher/share-of-children-with-a-weight-too-low-for-their-height-wasting">Childhood wasting (WHO estimates)</a>
+<br><a href="https://ourworldindata.org/grapher/share-of-children-with-a-weight-too-low-for-their-height-wasting">Childhood wasting (WHO estimates)</a>
 <br><a href="https://ourworldindata.org/grapher/share-of-adults-defined-as-obese">Adult obesity</a>
 <br><a href="https://ourworldindata.org/grapher/prevalence-of-anemia-in-pregnant-women-1995-2011">Prevalence of anemia in pregnant women</a>
 <br><a href="https://ourworldindata.org/grapher/prevalence-of-anemia-in-women-of-reproductive-age-aged-15-29">Prevalence of anemia in women of reproductive age</a>
 <br><a href="https://ourworldindata.org/grapher/prevalence-of-anemia-in-children">Prevalence of anemia in children</a></p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/share-of-children-with-a-weight-too-low-for-their-height-wasting" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/children-who-are-overweight-sdgs?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/child-wasting-ihme" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/children-who-are-overweight-sdgs" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 
