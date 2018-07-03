@@ -241,7 +241,7 @@ employment</q>.<p>This indicator measures the manufacturing sector's employment 
     <div class="row">
         <div class="col-md">
             <span>SDG Indicator 9.C.1</span>
-            <h3>Development assistance for infrastructure</h3>
+            <h3>Mobile network connectivity</h3>
             <p><strong>Definition:</strong> Indicator 9.C.1 is the <q>proportion of population covered by a mobile network, by technology</q>.<p>There are two technology types featured for this indicator: the number of mobile cellphone subscriptions (per 100 people), and the share of a given population using the internet (on any device).
 </p>
             <p><strong>Goal:</strong> <q>Strive to provide universal and affordable access to the Internet in least developed countries by 2020</q>.<p>Unlike most SDG targets which are set for the year 2030, this indicator is set for 2020.</p>
