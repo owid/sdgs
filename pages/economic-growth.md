@@ -7,11 +7,10 @@ goalNum: 8
 name: Decent Work and Economic Growth
 description: >-
   The [UN explains](https://www.un.org/sustainabledevelopment/economic-growth/):
-  <q>Roughly half the world’s population still lives on the equivalent of
-  about US$2 a day. And in too many places, having a job doesn’t guarantee the
-  ability to escape from poverty. This slow and uneven progress requires us to
-  rethink and retool our economic and social policies aimed at eradicating
-  poverty.</q>
+  <q>Roughly half the world’s population still lives on the equivalent of about
+  US$2 a day. And in too many places, having a job doesn’t guarantee the ability
+  to escape from poverty. This slow and uneven progress requires us to rethink
+  and retool our economic and social policies aimed at eradicating poverty.</q>
 
 
   The UN has defined 12 _Targets_ and 17 _Indicators_ for SDG 8. Targets specify
@@ -151,7 +150,7 @@ featuredImage: /img/uploads/8.svg
 <div class="row">
 <div class="col-md">
 <span>SDG Indicator 8.5.2</span>
-<h3>Hourly earnings</h3>
+<h3>Unemployment rate</h3>
 <p><strong>Definition:</strong> Indicator 8.5.2 is the <q>unemployment rate, by sex, age and persons with disabilities</q>.<p>Unemployment rate is measured as the share of the labor force that is without work but available for and seeking employment. This is available for the total population, in addition to breakdown by sex.</p>
 <p><strong>Goal:</strong> <q>By 2030, achieve full and productive employment and decent work for all women and men, including for young people and persons with disabilities</q>.</p>
 </div>
