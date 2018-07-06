@@ -5,10 +5,10 @@ goalNum: 16
 name: 'Peace, Justice and Strong Institutions'
 description: >-
   The [UN explains](https://www.un.org/sustainabledevelopment/peace-justice/):
-  <q>Goal 16 of the Sustainable Development Goals is dedicated to the
-  promotion of peaceful and inclusive societies for sustainable development, the
-  provision of access to justice for all, and building effective, accountable
-  institutions at all levels.</q>
+  <q>Goal 16 of the Sustainable Development Goals is dedicated to the promotion
+  of peaceful and inclusive societies for sustainable development, the provision
+  of access to justice for all, and building effective, accountable institutions
+  at all levels.</q>
 
 
   This aims to promote peaceful societies at national levels, as well as the
@@ -28,10 +28,10 @@ description: >-
   Children](https://ourworldindata.org/violence-against-rights-for-children).
 
 
-  The UN has defined 12 Targets and 23 Indicators for SDG 16. Targets
-  specify the goals and Indicators represent the metrics by which the world aims
-  to track whether these Targets are achieved. Below we quote the original text
-  of all Targets and show the data on the agreed Indicators.
+  The UN has defined 12 Targets and 23 Indicators for SDG 16. Targets specify
+  the goals and Indicators represent the metrics by which the world aims to
+  track whether these Targets are achieved. Below we quote the original text of
+  all Targets and show the data on the agreed Indicators.
 featuredImage: /img/uploads/16.svg
 ---
 
@@ -54,7 +54,7 @@ featuredImage: /img/uploads/16.svg
             <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/homicide-rate-by-age">Homicide rates by age</a> <br><a href="https://ourworldindata.org/grapher/number-of-homicide-deaths">Number of homicide deaths</a> <br><a href="https://ourworldindata.org/grapher/homicide-deaths-by-age">Number of homicide deaths by age</a></p>
         </div>
         <div class="col-md">
-            <iframe src="https://ourworldindata.org/grapher/intentional-homicides-per-100000-people" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/homicide-rate" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
