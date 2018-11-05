@@ -20,7 +20,7 @@ featuredImage: /img/uploads/11.svg
 
 <div class="target">
     <h2>Target 11.1: Safe and affordable housing</h2>
-    <p>UN definition: <q>By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums.</q></p>
+    <p>UN definition: <q>By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums. </q></p>
     
 </div>
 
