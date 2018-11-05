@@ -4,12 +4,11 @@ title: 'Make cities inclusive, safe, resilient and sustainable'
 goalNum: 11
 name: Sustainable Cities and Communities
 description: >-
-  The [UN explains](https://www.un.org/sustainabledevelopment/cities/):
-  <q>The challenges cities face can be overcome in ways that allow them to
-  continue to thrive and grow, while improving resource use and reducing
-  pollution and poverty. The future we want includes cities of opportunities for
-  all, with access to basic services, energy, housing, transportation and
-  more.</q>
+  The [UN explains](https://www.un.org/sustainabledevelopment/cities/): <q>The
+  challenges cities face can be overcome in ways that allow them to continue to
+  thrive and grow, while improving resource use and reducing pollution and
+  poverty. The future we want includes cities of opportunities for all, with
+  access to basic services, energy, housing, transportation and more.</q>
 
 
   The UN has defined 10 _Targets_ and 15 _Indicators_ for SDG 11. Targets
@@ -141,13 +140,17 @@ disabilities</q>.</p>
         <div class="col-md">
             <span>SDG Indicator 11.5.2</span>
             <h3>Economic losses from natural disasters</h3>
-            <p><strong>Definition:</strong> Indicator 11.5.2 is the <q>direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters</q>.<p>Direct economic losses from disasters are given at global and national levels in relative terms as a percentage of gross domestic product (GDP), and absolute terms of US$ per year.<p>Direct economic losses measures the monetary value of total or partial destruction of physical assets existing in the affected area from natural disasters.</p>
+            <p><strong>Definition:</strong> Indicator 11.5.2 is the <q>direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters</q>.<p>Direct economic losses from disasters are given at global and national levels in relative terms as a percentage of gross domestic product (GDP). Absolute losses in US$ are available in 'additional charts' below. 
+<p>Direct economic losses measures the monetary value of total or partial destruction of physical assets existing in the affected area from natural disasters.</p>
             <p><strong>Goal:</strong> <q>By 2030, substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations</q>.</p>
            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
+          <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/direct-disaster-economic-loss?tab=chart">Absolute economic losses from disasters by country</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/direct-disaster-loss-as-a-share-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-            <iframe src="https://ourworldindata.org/grapher/direct-disaster-economic-loss?tab=chart" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+            <iframe src="https://ourworldindata.org/grapher/global-disaster-losses-gdp-share" style="width: 100%; height: 600px; border: 0px none;">
+</iframe>
+           <iframe src="https://ourworldindata.org/grapher/economic-losses-from-disasters-share-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
         </div>
     </div>
 </div>
