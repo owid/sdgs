@@ -145,6 +145,7 @@ disabilities</q>.</p>
             <p><strong>Goal:</strong> <q>By 2030, substantially decrease the direct economic losses relative to global gross domestic product caused by disasters, including water-related disasters, with a focus on protecting the poor and people in vulnerable situations</q>.</p>
            <p><strong>More research:</strong> Further data and research on this topic can be found at the <i>Our World in Data</i> on <a href="https://ourworldindata.org/natural-catastrophes">Natural Catastrophes</a>.</p>
           <p><strong>Additional charts:</strong> <br><a href="https://ourworldindata.org/grapher/direct-disaster-economic-loss?tab=chart">Absolute economic losses from disasters by country</a>
+<br><a href="https://ourworldindata.org/grapher/weather-losses-share-gdp">Global weather-related disaster losses as a share of GDP</a>
         </div>
         <div class="col-md">
             <iframe src="https://ourworldindata.org/grapher/direct-disaster-loss-as-a-share-of-gdp" style="width: 100%; height: 600px; border: 0px none;"></iframe>
