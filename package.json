@@ -56,7 +56,7 @@
     "markdown-it-custom-block": "^0.1.1",
     "markdown-it-front-matter-loader": "^0.0.7",
     "markdown-it-header-sections": "^1.0.0",
-    "markdown-to-jsx": "^6.4.0",
+    "markdown-to-jsx": "^6.11.4",
     "mobx": "^3.1.0",
     "mobx-react": "^4.1.0",
     "moment": "^2.17.1",
