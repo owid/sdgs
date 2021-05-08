@@ -51,7 +51,7 @@
     "json-loader": "^0.5.7",
     "less": "^2.7.2",
     "less-loader": "^2.2.3",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "markdown-it": "^8.4.1",
     "markdown-it-custom-block": "^0.1.1",
     "markdown-it-front-matter-loader": "^0.0.7",
